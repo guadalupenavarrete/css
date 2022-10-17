@@ -35,3 +35,16 @@ th{
     border: 2px solid chartreuse;
     border-collapse: collapse;
 }
+#display{
+
+    display:flex;
+    justify-content: center;
+
+
+}
+#justify{
+    border: 2px solid seagreen;
+    border-collapse: collapse;
+    display:flex;
+    justify-content: center;
+}
