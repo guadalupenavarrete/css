@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2? family= Neuton:wght@200 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Fredericka+the+Great&family=Gloria+Hallelujah&family=Londrina+Solid:wght@100;300&family=Magra:wght@700&family=Rye&family=Vollkorn+SC:wght@600&display=swap');
 
 * {
     margin: 0;
@@ -53,13 +53,15 @@ h1 {
     font-size: 3em;
 
 }
+
 p {
     color: whitesmoke;
+    font-family: 'Bungee Inline', cursive;
 
 }
 
 main {
-    
+
     margin-left: 15%;
     margin-right: 15%;
     text-align: center;
@@ -71,6 +73,15 @@ main {
     font-family: "enredadera", cursive color whitesmoke;
 
 }
+
 .container img {
-    width: 700px;
+    width: 550px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Bungee Inline', cursive;
+    padding: 15px;
+    text-align: center;
+    font-size: 3em;
 }
